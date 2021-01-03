@@ -6,6 +6,6 @@
     </x-slot>
 
           <div id="app">
-          <create-work></create-work>
+          <works-page></works-page>
       </div>
 </x-app-layout>
